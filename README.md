@@ -19,5 +19,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![abufarhad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abufarhad&show_icons=true&theme=Gradient)
 <br />
+
+
+<p align="center">
+   <table>
+      <tr>
+       <th>Profile stats  </th>
+       <th>Language Contribution</th>
+     </tr>
+      <tr>
+       <td><img alt="Devorein :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=abufarhad&show_icons=true&theme=dark"> </td>
+       <td><img alt="Devorein :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abufarhad&langs_count=10&theme=tokyonight&layout=compact&hide=html"> </td>
+     </tr>
+   </table>
+</p>
