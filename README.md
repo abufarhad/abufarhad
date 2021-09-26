@@ -1,4 +1,4 @@
-### Hi there , This is Farhad ! 👋
+### Hi there , This is Farhad <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ![views](https://komarev.com/ghpvc/?username=abufarhad&color=brightgreen)
 [![LinkedIn URL](https://img.shields.io/static/v1?color=red&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/abufarhad/)
