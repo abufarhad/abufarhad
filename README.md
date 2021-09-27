@@ -3,14 +3,14 @@
 ![views](https://komarev.com/ghpvc/?username=abufarhad&color=brightgreen)
 [![LinkedIn URL](https://img.shields.io/static/v1?color=red&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/abufarhad/)
 
-- 🔭 I’m currently working on golang technology.
+- 🔭 I’m currently working on [vivasoft Limited](https://www.vivasoftltd.com/) as a Backend Software Engineer.
+- 🌱 I’m currently learning golang technology.
 <!--
 **abufarhad/abufarhad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
