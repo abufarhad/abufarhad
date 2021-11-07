@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 
 <br />
 
+<p align="center"><img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=abufarhad"/></p>
 
 <p align="center">
    <table>
