@@ -1,9 +1,8 @@
-### Hi there , This is Farhad 
 
 ![views](https://komarev.com/ghpvc/?username=abufarhad&color=brightgreen)
 [![LinkedIn URL](https://img.shields.io/static/v1?color=red&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/abufarhad/)
-
-- 🔭 I’m currently working at [Monstarlab Bangladesh](https://monstar-lab.com/bd/) as a Backend Software Engineer.
+### Hi there , This is Farhad 
+- 🔭 I’m currently working at [Monstarlab Bangladesh](https://monstar-lab.com/bd/) as a Software Engineer.
 - 🌱 I’m currently learning golang technology.
 <!--
 **abufarhad/abufarhad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
