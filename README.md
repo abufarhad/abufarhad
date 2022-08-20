@@ -3,7 +3,7 @@
 [![LinkedIn URL](https://img.shields.io/static/v1?color=red&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/abufarhad/)
 ### Hi there , This is Farhad 
 - 🔭 I’m currently working at [Monstarlab Bangladesh](https://monstar-lab.com/bd/) as a Software Engineer.
-- 🌱 Working on golang.
+- 🌱 Working on Golang.
 <!--
 **abufarhad/abufarhad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
