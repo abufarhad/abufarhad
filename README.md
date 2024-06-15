@@ -2,8 +2,14 @@
 ![views](https://komarev.com/ghpvc/?username=abufarhad&color=brightgreen)
 [![LinkedIn URL](https://img.shields.io/static/v1?color=red&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/abufarhad/)
 ### Hi there , This is Farhad 
-- 🔭 I’m currently working at [Monstarlab Bangladesh](https://monstar-lab.com/bd/) as a Software Engineer.
-- 🌱 Working on Golang.
+
+Innovative software engineer with around 4 years of experience implementing and enhancing high-availability backend services across various team sizes and dynamic environments. Enthusiastic about crafting scalable, efficient, and maintainable applications that address practical challenges.
+
+## Current Projects and Technologies
+- Golang, Python, NodeJs, Java
+- Kubernetes ☸️ 
+- AWS ☁️
+
 <!--
 **abufarhad/abufarhad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +22,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 <br />
 
@@ -33,3 +39,4 @@ Here are some ideas to get you started:
      </tr>
    </table>
 </p>
+-->
