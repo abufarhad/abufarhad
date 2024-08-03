@@ -6,9 +6,9 @@
 Innovative software engineer with around 4 years of experience implementing and enhancing high-availability backend services across various team sizes and dynamic environments. Enthusiastic about crafting scalable, efficient, and maintainable applications that address practical challenges.
 
 ## Current Projects and Technologies
-- Golang, Python, NodeJs, Java
+- C#, Golang, Python, NodeJs, Java
 - Kubernetes ☸️ 
-- AWS ☁️
+- AWS, Azure ☁️
 
 <!--
 **abufarhad/abufarhad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
