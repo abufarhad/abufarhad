@@ -6,7 +6,7 @@
 Innovative software engineer with around 5 years of experience implementing and enhancing high-availability backend services across various team sizes and dynamic environments. Enthusiastic about crafting scalable, efficient, and maintainable applications that address practical challenges.
 
 ## Current Projects and Technologies
-- .NET, Golang, Python, NodeJs, Java
+- Golang, Python, .NET, NodeJs, Java
 - Kubernetes ☸️ 
 - AWS, Azure ☁️
 
