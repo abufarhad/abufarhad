@@ -3,10 +3,10 @@
 [![LinkedIn URL](https://img.shields.io/static/v1?color=red&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/abufarhad/)
 ### Hi there , This is Farhad 
 
-Innovative software engineer with around 5 years of experience implementing and enhancing high-availability backend services across various team sizes and dynamic environments. Enthusiastic about crafting scalable, efficient, and maintainable applications that address practical challenges.
+Innovative software engineer with around 6 years of experience implementing and enhancing high-availability backend services across various team sizes and dynamic environments. Enthusiastic about crafting scalable, efficient, and maintainable applications that address practical challenges.
 
 ## Current Projects and Technologies
-- Golang, Python, .NET, NodeJs, Java
+- Golang, Python, .NET, Java
 - Kubernetes ☸️ 
 - AWS, Azure ☁️
 
